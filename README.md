@@ -20,7 +20,7 @@ This is a responsive FAQ page built with **HTML**, **CSS**, and **Bootstrap**, u
 ## How to Run the Project
 
 1. Clone the repository:
-   - git clone [https://github.com/your-repo-url.git](https://github.com/ogonekmateusz/FAQ-accordion.git)
+   - git clone https://github.com/ogonekmateusz/FAQ-accordion.git
 2. Navigate to the Project Directory
    - cd project-folder
 3. Install Dependencies
