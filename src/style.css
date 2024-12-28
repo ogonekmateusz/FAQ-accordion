@@ -35,3 +35,17 @@ hr {
 .faq-section {
   padding: 1.5rem;
 }
+
+.accordion-toggle-btn {
+  padding: 0;   
+  border: none; 
+}
+/* Uniemożliwienie klikania przycisku w całej jego powierzchni */
+.accordion-toggle-btn {
+  pointer-events: none; /* Wyłącza klikalność przycisku */
+}
+
+/* Włączenie klikalności tylko na obrazku */
+.accordion-toggle-btn img {
+  pointer-events: auto; /* Umożliwia klikanie tylko na obrazek */
+}
